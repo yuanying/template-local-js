@@ -1,0 +1,24 @@
+{
+  "name": "sample",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "OTSUKA",
+    "Yuanying <yuanying@fraction.jp>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "mithril": "~0.2.1",
+    "bootstrap": "~3.3.6",
+    "jquery": "~2.2.0"
+  }
+}
